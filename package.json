@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://atharavj.github.io/Lottery-Game/",
+  "homepage": "https://atharavj.github.io/Lottery-Game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "vite build && gh-pages -d build",
